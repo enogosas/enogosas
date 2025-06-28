@@ -8,7 +8,7 @@ I’m a tech-savvy professional with hands-on experience in Cybersecurity Analys
 
 - **👤 Name:** Enohayin Osarobo
 - **💼 Profession:** Cybersecurity & IT Support Specialist
-- **🌱 Fun fact:** I’m naturally curious — always eager to learn, explore, and grow.
+- **🌱 Fun fact:** I’m naturally curious, always eager to learn, explore, and grow.
 
 ---
 
@@ -25,15 +25,15 @@ I’m a tech-savvy professional with hands-on experience in Cybersecurity Analys
 - 🖥️ Endpoint Security
 - 📊 Standards, Regulations, and Data Privacy
 - 🧰 Cloud Computing Concepts and Models
-- 🧑‍💻 Technical Support Fundamentals
 - 🔄 Git and GitHub
+- 🧑‍💻 Technical Support Fundamentals
 
 ---
 
 ## Project Showcase
 
-- **🏛️ Certificate Authority** — Designed and implemented an internal CA using OpenSSL.
-- **✉️ Digital Certificate** — Built a digital signature system with RSA encryption and OpenSSL..
+- **🏛️ Certificate Authority:**  Designed and implemented an internal CA using OpenSSL.
+- **✉️ Digital Certificate:**  Built a digital signature system with RSA encryption and OpenSSL..
 
 ---
 
@@ -54,4 +54,4 @@ Let’s connect, collaborate, and secure the future together.
 
 ---
 
-### 🤝 Thank You!
+### Thank You 🤝!
