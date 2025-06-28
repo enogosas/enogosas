@@ -1,4 +1,4 @@
-#  👋 Hello; Welcome
+# Hello; Welcome 👋
 
 I’m a tech-savvy professional with hands-on experience in Cybersecurity Analysis & Awareness, IT Support, and Data Management. Passionate about promoting digital literacy, I thrive in roles that combine problem-solving, analytics, and user education. I apply my skills to protect systems, train users, and enhance IT efficiency through proactive, people-centered approaches.
 
