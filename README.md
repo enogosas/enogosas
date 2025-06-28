@@ -14,7 +14,7 @@ I’m a tech-savvy professional with hands-on experience in Cybersecurity Analys
 
 ## Career Learning
 
-- 📘 Fundamentals of Computer Science
+- 📘 Computer Science
 - 🛡️ Foundations of Cybersecurity
 - 🔐 Security Principles
 - ⚖️ Legal, Ethical, and Professional Issues in Cybersecurity
