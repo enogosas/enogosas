@@ -54,4 +54,4 @@ Let’s connect, collaborate, and secure the future together.
 
 ---
 
-### 🙏 Thank You!
+### 🤝 Thank You!
