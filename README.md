@@ -1,32 +1,32 @@
 #  👋 Welcome to My GitHub Portfolio
-I’m a tech-savvy professional with hands-on experience in Cybersecurity Analysis & Awareness, IT Support, and Data Management.
-Passionate about promoting digital literacy, I thrive in roles that combine problem-solving, analytics, and user education.
-I apply my skills to protect systems, train users, and enhance IT efficiency through proactive, people-centered approaches.
+
+I’m a tech-savvy professional with hands-on experience in Cybersecurity Analysis & Awareness, IT Support, and Data Management. Passionate about promoting digital literacy, I thrive in roles that combine problem-solving, analytics, and user education. I apply my skills to protect systems, train users, and enhance IT efficiency through proactive, people-centered approaches.
+
 ---
 
 ## ✏️ About Me
 
-**👤 Name:** Enohayin Osarobo
-**💼 Profession:** Cybersecurity & IT Support Specialist
-**🌱 Fun fact:** I’m naturally curious — always eager to learn, explore, and grow.
+- **👤 Name:** Enohayin Osarobo
+- **💼 Profession:** Cybersecurity & IT Support Specialist
+- **🌱 Fun fact:** I’m naturally curious — always eager to learn, explore, and grow.
 
 ---
 
 ## 📚 CAREER LEARNINGS
 
-📘 Fundamentals of Computer Science
-🛡️ Foundations of Cybersecurity
-🔐 Security Principles
-⚖️ Legal, Ethical, and Professional Issues in Cybersecurity
-🌐 Network Concepts, Protocols, and Services
-☁️ Systems and Cloud Fundamentals
-🧾 IAM: Authorization and Access Control
-🔑 Cryptography
-🖥️ Endpoint Security
-📊 Standards, Regulations, and Data Privacy
-🧰 Cloud Computing Concepts and Models
-🧑‍💻 Technical Support Fundamentals
-🔄 Git and GitHub
+- 📘 Fundamentals of Computer Science
+- 🛡️ Foundations of Cybersecurity
+- 🔐 Security Principles
+- ⚖️ Legal, Ethical, and Professional Issues in Cybersecurity
+- 🌐 Network Concepts, Protocols, and Services
+- ☁️ Systems and Cloud Fundamentals
+- 🧾 IAM: Authorization and Access Control
+- 🔑 Cryptography
+- 🖥️ Endpoint Security
+- 📊 Standards, Regulations, and Data Privacy
+- 🧰 Cloud Computing Concepts and Models
+- 🧑‍💻 Technical Support Fundamentals
+- 🔄 Git and GitHub
 
 ---
 
@@ -38,10 +38,11 @@ I apply my skills to protect systems, train users, and enhance IT efficiency thr
 ---
 
 ## 🛠️ My Stack
-**🖥️ Operating Systems** Kali Linux, Ubuntu
-**🔍 Security Tools** Wireshark, Snort, VirusTotal
-**☁️ Cloud & DevOps** AWS EC2
-**🧑‍🤝‍🧑 Collaboration & VCS** GitHub, Slack
+
+- **🖥️ Operating Systems** Kali Linux, Ubuntu
+- **🔍 Security Tools** Wireshark, Snort, VirusTotal
+- **☁️ Cloud & DevOps** AWS EC2
+- **🧑‍🤝‍🧑 Collaboration & VCS** GitHub, Slack
 
 ---
 
@@ -52,10 +53,5 @@ As I continue to grow in the cybersecurity field, I’m now focusing on **Securi
 Let’s connect, collaborate, and secure the future together.
 
 ---
-
-###📫 Connect With Me
-**📨 Email** enogosas@gmail.com
-**💬 X** [enogosas](https://x.com/enogosas)
-**🌐 LinkedIn** https://www.linkedin.com/in/enoghayinosarobo
 
 ### 🚀 Thank You!
