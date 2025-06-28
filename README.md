@@ -1,6 +1,6 @@
 # Hello; Welcome 👋
 
-I’m a tech-savvy professional with hands-on experience in Cybersecurity Analysis & Awareness, IT Support, and Data Management. Passionate about promoting digital literacy, I thrive in roles that combine problem-solving, analytics, and user education. I apply my skills to protect systems, train users, and enhance IT efficiency through proactive, people-centered approaches.
+I’m a tech-savvy professional with expertise in Security Engineering, Security Architecture, and Controls, with additional hands-on experience in IT Support and Data Management. I focus on designing secure systems, implementing technical safeguards, and aligning security solutions with real-world business needs. Driven by a passion for digital literacy and user empowerment, I bridge the gap between complex cybersecurity frameworks and everyday awareness. I thrive in roles that combine problem-solving, strategic thinking, and education—working to strengthen system resilience and improve IT efficiency through people-centered, proactive approaches.
 
 ---
 
